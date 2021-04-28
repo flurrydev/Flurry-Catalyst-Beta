@@ -4,7 +4,7 @@
 2) The included frameworks are compatible with M1 Macs
 3) Use the standard integration instructions to install via Cocoapods or manual installation,b ut install the pods locally.
 
-         pod 'Flurry-iOS-SDK', :path => '~/Downloads/FlurryXCFramework/'
+         pod 'Flurry-iOS-SDK', :path => 'Your Path'
 
 4) For Swift the installation requires a bridging header.
 
