@@ -2,7 +2,7 @@
 
 1) The minimum iOS version is 9.0
 2) The included frameworks are compatible with M1 Macs
-3) Use the standard integration instructions to install via Cocoapods or manual installation,b ut install the pods locally.
+3) Use the standard integration instructions to install via Cocoapods or manual installation, but install the pods locally.
 
          pod 'Flurry-iOS-SDK', :path => 'Your Path'
 
