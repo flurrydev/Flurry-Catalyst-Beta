@@ -6,7 +6,7 @@
 
          pod 'Flurry-iOS-SDK', :path => 'Your Path'
 
-4) For Swift the installation requires a bridging header.
+4) For Swift the installation requires a bridging header. You do not need to use import Flurry_iOS_SDK
 
 Detailed instructions:
 https://developer.yahoo.com/flurry/docs/integrateflurry/ios/
